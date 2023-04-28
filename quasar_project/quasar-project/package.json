@@ -6,6 +6,7 @@
   "author": "Cameron Croghan <cameron.croghan@gmail.com>",
   "private": true,
   "scripts": {
+    "netlify": "netlify",
     "test": "echo \"No test specified\" && exit 0",
     "dev": "quasar dev",
     "build": "quasar build"
